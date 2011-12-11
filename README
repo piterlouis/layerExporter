@@ -1,0 +1,7 @@
+LayerExporter for Photoshop (Ver. 1.0)
+
+layerExporter is a very simple and fast Photoshop script for layers exportation to individual PNG files. You only need download the script file to your local disk and run it from the Photoshop menu option File/Scriptting/Browse...
+
+The exporter save each visible layer to an individual PNG image file. It's so much faster than the Photoshop original Layer exporter.
+
+The script is licensed with GPL (See http://www.gnu.org/licenses/).
